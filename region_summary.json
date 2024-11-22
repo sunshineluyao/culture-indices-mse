@@ -1,0 +1,58 @@
+[
+    {
+        "Cultural_Region":"Orthodox Europe",
+        "MSE_Traditional_vs_Secular":0.3814060389,
+        "MSE_Survival_vs_SelfExpression":0.45784209,
+        "MAE_Traditional_vs_Secular":0.5441171351,
+        "MAE_Survival_vs_SelfExpression":0.5614035586
+    },
+    {
+        "Cultural_Region":"African-Islamic",
+        "MSE_Traditional_vs_Secular":0.3180444681,
+        "MSE_Survival_vs_SelfExpression":0.9352194301,
+        "MAE_Traditional_vs_Secular":0.4776809017,
+        "MAE_Survival_vs_SelfExpression":0.808565818
+    },
+    {
+        "Cultural_Region":"Catholic Europe",
+        "MSE_Traditional_vs_Secular":0.6183811161,
+        "MSE_Survival_vs_SelfExpression":0.1386335352,
+        "MAE_Traditional_vs_Secular":0.5815584094,
+        "MAE_Survival_vs_SelfExpression":0.3090140672
+    },
+    {
+        "Cultural_Region":"Latin America",
+        "MSE_Traditional_vs_Secular":0.5895923399,
+        "MSE_Survival_vs_SelfExpression":0.5034970514,
+        "MAE_Traditional_vs_Secular":0.5988910751,
+        "MAE_Survival_vs_SelfExpression":0.5597390242
+    },
+    {
+        "Cultural_Region":"English-Speaking",
+        "MSE_Traditional_vs_Secular":0.4219614886,
+        "MSE_Survival_vs_SelfExpression":0.4066456718,
+        "MAE_Traditional_vs_Secular":0.4780895923,
+        "MAE_Survival_vs_SelfExpression":0.5233761778
+    },
+    {
+        "Cultural_Region":"West & South Asia",
+        "MSE_Traditional_vs_Secular":0.4040318005,
+        "MSE_Survival_vs_SelfExpression":0.4739302386,
+        "MAE_Traditional_vs_Secular":0.5010983374,
+        "MAE_Survival_vs_SelfExpression":0.6106687068
+    },
+    {
+        "Cultural_Region":"Confucian",
+        "MSE_Traditional_vs_Secular":0.8488884877,
+        "MSE_Survival_vs_SelfExpression":1.3239738609,
+        "MAE_Traditional_vs_Secular":0.7739685833,
+        "MAE_Survival_vs_SelfExpression":1.0326260653
+    },
+    {
+        "Cultural_Region":"Protestant Europe",
+        "MSE_Traditional_vs_Secular":0.1969368961,
+        "MSE_Survival_vs_SelfExpression":0.5293791847,
+        "MAE_Traditional_vs_Secular":0.3891049851,
+        "MAE_Survival_vs_SelfExpression":0.5119788998
+    }
+]
